@@ -1,7 +1,9 @@
 {
-  "timeZone": "Asia/Ho_Chi_Minh",
-  "dependencies": {
-  },
-  "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8"
+    "timeZone": "Asia/Ho_Chi_Minh",
+    "dependencies": {},
+    "chat": {
+        "addToSpaceFallbackMessage": "Thank you for adding me!"
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8"
 }
